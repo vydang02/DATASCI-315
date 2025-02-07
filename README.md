@@ -1,1 +1,1 @@
-# DATASCI-315
+# DATASCI-315: Neural Networks
